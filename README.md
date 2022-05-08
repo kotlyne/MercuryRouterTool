@@ -12,4 +12,4 @@ With special featrue :)
 - [x] Block/Unblock a device
 - [x] Limit/Unlimit a device's speed
 - [x] Trick a device (special featrue)
-- [] Logout (soon)
+- [ ] Logout (soon)
