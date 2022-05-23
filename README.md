@@ -9,10 +9,14 @@
         <img alt="github stars counter" src="https://badgen.net/github/stars/kotlyne/MercuryRouterTool" />
   </a>
   
+  <a href="http://hits.dwyl.com/kotlyne/MercuryRouterTool/">
+        <img alt="hit counter" src="https://hits.dwyl.com/kotlyne/MercuryRouterTool.svg?style=flat" />
+  </a>
+  
   <a href="https://www.python.org/">
         <img alt="any platform with python" src="https://img.shields.io/badge/Any-Platform%20with%20Python-brightgreen" />
   </a>
- 
+
 </p>
 
 
